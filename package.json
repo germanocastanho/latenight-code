@@ -1,0 +1,33 @@
+{
+  "name": "latenight-code",
+  "displayName": "Latenight Code",
+  "icon": "assets/icon.png",
+  "description": "Tema escuro minimalista para o VS Code",
+  "version": "1.0.0",
+  "publisher": "germanocastanho",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/germanocastanho/latenight-code"
+  },
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "minimalist",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Latenight Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/custom-theme.json"
+      }
+    ]
+  }
+}
