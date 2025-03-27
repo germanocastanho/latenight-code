@@ -34,4 +34,4 @@ code --install-extension latenight-code-*.vsix
 
 # 📜 Licença
 
-Distribuído sob a [**Licença Pública Geral GNU v3.0 (GPL-3.0)**](LICENSE), garantindo liberdade de uso, modificação e redistribuição do software, desde que preservadas as mesmas liberdades em quaisquer versões derivadas. Ao utilizar ou contribuir com o projeto, você apoia a filosofia de **software livre** e ajuda a promover um ambiente colaborativo e aberto à inovação! 🚀
+Distribuído sob a [**Licença Pública Geral GNU v3.0 (GPL-3.0)**](LICENSE), garantindo liberdade de uso, modificação e redistribuição do software, desde que preservadas as mesmas liberdades em quaisquer versões derivadas. Ao utilizar ou contribuir com o projeto, você apoia a filosofia de **software livre** e ajuda a promover um ambiente colaborativo e aberto à inovação! ✨
