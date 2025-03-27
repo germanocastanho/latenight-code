@@ -1,6 +1,6 @@
 # 🌑 Latenight Code
 
-Tema escuro minimalista para o Visual Studio Code (VS Code), projetado para proporcionar uma experiência confortável de codificação, principalmente à noite. Inspirado nos temas [**One Dark**](https://github.com/atom/one-dark-syntax), do saudoso Atom, e [**Default Dark Modern**](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json), do popular VS Code, cada tonalidade do **Latenight** foi cuidadosamente selecionada para proporcionar o máximo de conforto possível - mesmo em longas sessões noturnas de codificação! 💻
+Tema escuro minimalista para o Visual Studio Code (VS Code), projetado para proporcionar uma experiência confortável de codificação, principalmente à noite. Inspirado nos temas [**One Dark**](https://github.com/atom/one-dark-syntax) e [**Default Dark Modern**](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json) cada tonalidade do **Latenight** foi cuidadosamente selecionada para proporcionar o máximo de conforto possível - mesmo em longas sessões noturnas! 💻
 
 <div align="center">
   <img style="max-width: 100%; height: auto;" src="assets/colors.png" alt="Paleta de Cores" />
