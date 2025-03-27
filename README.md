@@ -2,8 +2,6 @@
 
 Tema escuro minimalista para o Visual Studio Code (VS Code), projetado para proporcionar uma experiência confortável de codificação, principalmente à noite. Inspirado nos temas [**One Dark**](https://github.com/atom/one-dark-syntax), do saudoso Atom, e [**Default Dark Modern**](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json), do popular VS Code, cada tonalidade do **Latenight** foi cuidadosamente selecionada para proporcionar o máximo de conforto possível - mesmo em longas sessões noturnas de codificação! 💻
 
-# 🎨 Paleta de Cores
-
 <div align="center">
   <img style="max-width: 100%; height: auto;" src="assets/colors.png" alt="Paleta de Cores" />
   <p>
@@ -34,6 +32,6 @@ vsce package
 code --install-extension latenight-code-*.vsix
 ```
 
-# 📜 Licença GPL v3
+# 📜 Licença
 
 Distribuído sob a [**Licença Pública Geral GNU v3.0 (GPL-3.0)**](LICENSE), garantindo liberdade de uso, modificação e redistribuição do software, desde que preservadas as mesmas liberdades em quaisquer versões derivadas. Ao utilizar ou contribuir com o projeto, você apoia a filosofia de **software livre** e ajuda a promover um ambiente colaborativo e aberto à inovação! 🚀
