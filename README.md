@@ -1,6 +1,6 @@
-# 🌑 Latenight Code
+# 🌑 LateNight Code
 
-Tema escuro minimalista para o Visual Studio Code (VS Code), projetado para uma experiência confortável de codificação noturna. Inspirado nos temas [**One Dark**](https://github.com/atom/one-dark-syntax) e [**Default Dark Modern**](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json), cada tonalidade do **Latenight** foi selecionada para proporcionar o máximo de conforto - mesmo em longas sessões noturnas! 😴
+Tema escuro minimalista para o Visual Studio Code (VS Code), projetado para uma experiência confortável de codificação noturna. Inspirado nos temas [**One Dark**](https://github.com/atom/one-dark-syntax) e [**Default Dark Modern**](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json), cada tonalidade do **LateNight** foi selecionada para proporcionar o máximo de conforto - mesmo em longas sessões noturnas! 😴
 
 <div align="center">
   <img style="max-width: 100%; height: auto;" src="assets/colors.png" alt="Paleta de Cores" />
@@ -18,9 +18,9 @@ Tema escuro minimalista para o Visual Studio Code (VS Code), projetado para uma 
 # 🧩 Extensão - VS Code
 
 - Com o VS Code aberto, acesse o menu **`Extensões`** (ou pressione **`Ctrl + Shift + X`**).
-- Pesquise por **`Latenight Code`** e, encontrando, instale a extensão clicando em `Instalar`.
+- Pesquise por **`LateNight Code`** e, encontrando, instale a extensão clicando em `Instalar`.
 - Após a instalação, clique em "⚙️", ao lado da extensão, e selecione **`Definir Tema de Cor`.**
-- Em seguida, escolha **`Latenight Code`** na lista de temas disponíveis. _And happy hacking!_
+- Em seguida, escolha **`LateNight Code`** na lista de temas disponíveis. _And happy hacking!_
 
 # 🛠️ Instalação Local
 
