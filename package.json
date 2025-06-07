@@ -1,0 +1,45 @@
+{
+  "name": "latenight-code",
+  "displayName": "Late Night Code",
+  "icon": "assets/icon.png",
+  "description": "Minimalist dark theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "germanocastanho",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/germanocastanho/latenight-code"
+  },
+  "engines": {
+    "vscode": "^1.100.3"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "atom-inspired",
+    "clean interface",
+    "dark mode",
+    "dark ui",
+    "developer focus",
+    "distraction-free",
+    "editor theme",
+    "github atom",
+    "low contrast",
+    "minimal dark",
+    "modern aesthetics",
+    "one dark",
+    "syntax highlighting",
+    "syntax highlighting",
+    "vscode theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Late Night Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/custom-theme.json"
+      }
+    ]
+  }
+}
