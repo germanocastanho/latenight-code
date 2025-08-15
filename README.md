@@ -32,11 +32,12 @@ git clone https://github.com/germanocastanho/latenight-code.git
 cd latenight-code
 
 # Install dependencies
+sudo apt update
 sudo apt install nodejs
 sudo apt install npm
 
 # Install VS Code Extensions
-sudo npm install -g @vscode/vsce
+npm install -g @vscode/vsce
 
 # Package the extension
 vsce package
