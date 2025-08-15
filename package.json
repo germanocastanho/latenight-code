@@ -3,7 +3,7 @@
   "displayName": "Late Night Code",
   "icon": "assets/icon.png",
   "description": "Minimalist dark theme for Visual Studio Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "germanocastanho",
   "license": "GPL-3.0-only",
   "repository": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/germanocastanho/latenight-code"
   },
   "engines": {
-    "vscode": "^1.100.3"
+    "vscode": "^1.103.1"
   },
   "categories": [
     "Themes"

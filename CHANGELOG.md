@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.1] - 2025-08-15
+
+### Changed
+
+- Improved README.md for clarity.
+
 ## [1.0.0] - 2025-06-06
 
 ### Added
